@@ -1,12 +1,12 @@
 ## Temperature Converter
 
-A simple temperature converter built using HTML and CSS that allows you to convert temperatures between Celsius, Fahrenheit, and Kelvin.
+A simple temperature converter built using HTML  that allows you to convert temperatures between Celsius, Fahrenheit, and Kelvin.
 
 ## Features
 
 - Convert temperatures between Celsius, Fahrenheit, and Kelvin.
 - Easy-to-use interface.
-- Responsive design using pure HTML and CSS.
+- Responsive design using pure HTML.
 
 ## How to Use
 
@@ -28,7 +28,6 @@ git clone https://github.com/Vishnuvardhan005/temperature-converter.git
 ## Technologies Used
 
 - HTML
-- CSS
 
 ## License
 
